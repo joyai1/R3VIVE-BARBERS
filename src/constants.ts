@@ -18,19 +18,19 @@ export const HAIRCUT_STYLES: StyleOption[] = [
     id: 'mid-fade',
     name: 'Mid Fade',
     description: 'Balanced fade starting halfway up the sides.',
-    image: 'https://images.unsplash.com/photo-1605497746444-1ca0720a400c?q=80&w=800',
+    image: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?q=80&w=800',
   },
   {
     id: 'taper-fade',
     name: 'Taper Fade',
     description: 'Sharp outlines with a gradual blend.',
-    image: 'https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?q=80&w=800',
+    image: 'https://images.unsplash.com/photo-1585747860715-2ba37e788b70?q=80&w=800',
   },
   {
     id: 'textured-crop',
     name: 'Textured Crop',
     description: 'Modern forward-swept hair with short sides.',
-    image: 'https://images.unsplash.com/photo-1600618528240-fb9fe964b853?q=80&w=800',
+    image: 'https://images.unsplash.com/photo-1605497746444-1ca0720a400c?q=80&w=800',
   },
 ];
 
@@ -41,7 +41,7 @@ export const BEARD_STYLES: StyleOption[] = [
     description: 'Sharp lines and defined edges for natural growth.',
     maintenance: 'Medium',
     sharpness: 5,
-    image: 'https://images.unsplash.com/photo-1534073828943-f801091bb18c?q=80&w=800',
+    image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=800',
     popular: true,
   },
   {
@@ -66,7 +66,7 @@ export const BEARD_STYLES: StyleOption[] = [
     description: 'Minimalist line following the jawline.',
     maintenance: 'High',
     sharpness: 4,
-    image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=800',
+    image: 'https://images.unsplash.com/photo-1534073828943-f801091bb18c?q=80&w=800',
   },
   {
     id: 'clean-shave',

@@ -113,9 +113,6 @@ export default function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            <span className="inline-block px-4 py-1 bg-brand-red/20 border border-brand-red/30 rounded-full text-brand-gold text-[10px] font-bold uppercase tracking-widest mb-6">
-              Bradford's Premier Barber Experience
-            </span>
             <h1 className="text-5xl md:text-8xl font-black italic tracking-tighter uppercase leading-[0.9] mb-8">
               Sharp fades. <br />
               <span className="text-gradient-gold">Clean cuts.</span> <br />
@@ -518,34 +515,34 @@ export default function App() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div className="space-y-4">
               <div className="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5">
-                <img src="https://images.unsplash.com/photo-1621605815971-fbc388ad6f0c?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1596362483833-2895f32fe7cc?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
               </div>
               <div className="aspect-square rounded-2xl overflow-hidden bg-white/5">
-                <img src="https://images.unsplash.com/photo-1599351431202-1e0f0137899a?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1621605815971-fbc388ad6f0c?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
               </div>
             </div>
             <div className="space-y-4 pt-8">
               <div className="aspect-square rounded-2xl overflow-hidden bg-white/5">
-                <img src="https://images.unsplash.com/photo-1621605815971-fbc388ad6f0c?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1503951914875-452162b0f3f1?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
               </div>
               <div className="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5">
-                <img src="https://images.unsplash.com/photo-1581456495147-41799778c5d2?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1599351431202-1e0f0137899a?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
               </div>
             </div>
             <div className="space-y-4">
               <div className="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5">
-                <img src="https://images.unsplash.com/photo-1503951914875-452162b0f3f1?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1605497746444-1ca0720a400c?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
               </div>
               <div className="aspect-square rounded-2xl overflow-hidden bg-white/5">
-                <img src="https://images.unsplash.com/photo-1618077360395-f3068be8e001?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1585747860715-2ba37e788b70?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
               </div>
             </div>
             <div className="space-y-4 pt-8">
               <div className="aspect-square rounded-2xl overflow-hidden bg-white/5">
-                <img src="https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1618077360395-f3068be8e001?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
               </div>
               <div className="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5">
-                <img src="https://images.unsplash.com/photo-1605497746444-1ca0720a400c?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                <img src="https://images.unsplash.com/photo-1534073828943-f801091bb18c?q=80&w=800" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
               </div>
             </div>
           </div>
