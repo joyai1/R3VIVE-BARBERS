@@ -1,0 +1,6 @@
+{
+  "name": "R3VIVE BARBERS | Sharp Cuts & Fades in Bradford",
+  "description": "High-converting urban barber shop website for R3VIVE BARBERS in Bradford. Fast bookings, style selection, and sharp results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
